@@ -42,7 +42,7 @@ DatingApp is a full-stack web application built using ASP.NET Core for the backe
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sydmasina/DatingApp.git
+   git clone https://github.com/deylove2hate/DatingApp.git
    cd DatingApp
    ```
 
